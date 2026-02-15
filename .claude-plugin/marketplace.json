@@ -1,0 +1,13 @@
+{
+  "name": "pods-cowork-plugins",
+  "owner": {
+    "name": "calvin"
+  },
+  "plugins": [
+    {
+      "name": "product-management",
+      "source": "./product-manager",
+      "recommended": true
+    }
+  ]
+}

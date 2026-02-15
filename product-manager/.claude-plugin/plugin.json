@@ -2,21 +2,8 @@
   "name": "product-management",
   "version": "0.1.0",
   "description": "Product management workflows for Claude cowork.",
-  "authors": [
-    {
-      "name": "Calvin"
-    }
-  ],
-  "keywords": [
-    "product-management",
-    "roadmap",
-    "spec-writing",
-    "research",
-    "metrics"
-  ],
-  "files": {
-    "commands": "./commands",
-    "skills": "./skills"
+  "author": {
+    "name": "calvin"
   },
-  "settings": {}
+  "license": "MIT"
 }
