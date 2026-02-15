@@ -1,9 +1,0 @@
-{
-  "name": "product-management",
-  "version": "0.1.0",
-  "description": "Product management workflows for Claude cowork.",
-  "author": {
-    "name": "calvin"
-  },
-  "license": "MIT"
-}
