@@ -22,3 +22,12 @@ The `product-manager` plugin is scaffolded first and modeled after Anthropic's d
 1. Customize command prompts to your PM workflows.
 2. Tune each skill with your team conventions.
 3. Add developer and designer plugins later with the same shape.
+
+## Add to Claude cowork
+
+From Claude cowork, add this repository as a local marketplace, then install the plugin.
+
+Example flow:
+
+1. Register marketplace path: `/Users/calvin/Projects/pods-claude-plugins`
+2. Install plugin from marketplace: `product-manager`
