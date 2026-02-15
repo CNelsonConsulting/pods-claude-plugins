@@ -1,3 +1,7 @@
+---
+description: Synthesize customer research into actionable product insights.
+---
+
 # synthesize-research
 
 Synthesize customer research into actionable product insights.

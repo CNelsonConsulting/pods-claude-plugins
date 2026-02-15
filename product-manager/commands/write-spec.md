@@ -1,3 +1,7 @@
+---
+description: Draft a product requirements document for a proposed feature.
+---
+
 # write-spec
 
 Draft a product requirements document for a proposed feature.

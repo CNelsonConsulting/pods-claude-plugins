@@ -1,0 +1,15 @@
+{
+  "name": "pods-cowork-plugins",
+  "displayName": "Pods Cowork Plugins",
+  "icon": "https://raw.githubusercontent.com/anthropics/knowledge-work-plugins/main/assets/knowledge-work-icon.png",
+  "description": "Claude cowork plugins for different user roles.",
+  "plugins": [
+    {
+      "name": "product-management",
+      "source": "./product-manager",
+      "description": "Product management workflows, commands, and skills.",
+      "readme": "./product-manager/README.md",
+      "recommended": true
+    }
+  ]
+}

@@ -1,3 +1,7 @@
+---
+description: Create a competitive brief for a market segment or feature category.
+---
+
 # competitive-brief
 
 Create a competitive brief for a market segment or feature category.

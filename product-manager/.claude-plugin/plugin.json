@@ -1,27 +1,22 @@
 {
-  "name": "product-manager",
-  "display_name": "Product Manager",
+  "name": "product-management",
   "version": "0.1.0",
-  "description": "Product management plugin for Claude cowork workflows.",
-  "author": "pods-claude-plugins",
-  "capabilities": {
-    "commands": true,
-    "skills": true
-  },
-  "commands": [
-    "write-spec",
-    "roadmap-update",
-    "stakeholder-update",
-    "synthesize-research",
-    "competitive-brief",
-    "metrics-review"
+  "description": "Product management workflows for Claude cowork.",
+  "authors": [
+    {
+      "name": "Calvin"
+    }
   ],
-  "skills": [
+  "keywords": [
+    "product-management",
+    "roadmap",
     "spec-writing",
-    "roadmap-management",
-    "stakeholder-communication",
-    "research-synthesis",
-    "competitive-analysis",
-    "metrics-review"
-  ]
+    "research",
+    "metrics"
+  ],
+  "files": {
+    "commands": "./commands",
+    "skills": "./skills"
+  },
+  "settings": {}
 }

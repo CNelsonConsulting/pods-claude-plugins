@@ -1,3 +1,7 @@
+---
+description: Create or revise a roadmap update from current project status.
+---
+
 # roadmap-update
 
 Create or revise a roadmap update from current project status.

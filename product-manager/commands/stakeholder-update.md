@@ -1,3 +1,7 @@
+---
+description: Write a concise stakeholder update for product progress and decisions.
+---
+
 # stakeholder-update
 
 Write a concise stakeholder update for product progress and decisions.

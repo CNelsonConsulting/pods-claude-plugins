@@ -1,3 +1,7 @@
+---
+description: Evaluate product performance metrics and recommend actions.
+---
+
 # metrics-review
 
 Evaluate product performance metrics and recommend actions.

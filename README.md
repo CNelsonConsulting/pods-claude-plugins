@@ -25,7 +25,7 @@ The `product-manager` plugin is scaffolded first and modeled after Anthropic's d
 
 ## Add to Claude cowork
 
-From Claude cowork, add this repository as a local marketplace, then install the plugin.
+From Claude cowork, add this repository as a local marketplace (it uses root `marketplace.json`), then install the plugin.
 
 Example flow:
 
