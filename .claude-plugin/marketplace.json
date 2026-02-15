@@ -1,14 +1,18 @@
 {
-  "name": "pods-cowork-plugins",
+  "name": "pods-plugin-marketplace",
   "owner": {
-    "name": "Calvin Nelson"
+    "name": "Calvin Nelson",
+    "email": "cnelsonconsulting@gmail.com"
   },
   "plugins": [
     {
       "name": "product-management",
       "source": "./plugins/product-management",
       "description": "Product management workflows for Claude cowork.",
-      "recommended": true
+      "version": "0.1.0",
+      "author": {
+        "name": "Product Team"
+      }
     }
   ]
 }
